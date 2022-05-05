@@ -1,0 +1,17 @@
+{
+  "name": "emp-digital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-rsa": "^1.0.0",
+    "open-in-editor": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato Pereira, Wender Machado, Henrique Júnior",
+  "license": "ISC"
+}

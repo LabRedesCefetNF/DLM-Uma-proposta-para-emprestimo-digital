@@ -1,0 +1,32 @@
+{
+    "02f2b214713966b148c92a58a6c81174": {
+        "hash": "02f2b214713966b148c92a58a6c81174",
+        "oldHash": null,
+        "owner": "Wender Machado",
+        "user": "Wender Machado",
+        "time": null,
+        "date": "2018-06-24T00:03:40.715Z",
+        "key": "./keys/d1f6ba1f482c6a68f07b558c1e230195.pem",
+        "file": "./storage/beowulf.txt"
+    },
+    "5199a4c9a0722a26bc7d2171cf4b917b": {
+        "hash": "5199a4c9a0722a26bc7d2171cf4b917b",
+        "oldHash": "02f2b214713966b148c92a58a6c81174",
+        "owner": "Renato Pereira",
+        "user": "Renato Pereira",
+        "time": null,
+        "date": "2018-06-24T00:04:07.266Z",
+        "key": "./keys/7b1eb88a886233dc063cc9660baf3e9c.pem",
+        "file": "./storage/beowulf.txt"
+    },
+    "ae617e3afca98ec2eb534058575dea0e": {
+        "hash": "ae617e3afca98ec2eb534058575dea0e",
+        "oldHash": "5199a4c9a0722a26bc7d2171cf4b917b",
+        "owner": "Renato Pereira",
+        "user": "Henrique Júnior",
+        "time": "2018-01-08T02:00:00.000Z",
+        "date": "2018-06-24T00:05:13.313Z",
+        "key": "./keys/c3c7dfaf71c712564bb7402ae5c5582e.pem",
+        "file": "./storage/beowulf.txt"
+    }
+}
